@@ -1,0 +1,47 @@
+table{
+    border-collapse:collapse;
+    /*border: 1px solid black;*/
+    border: 1px solid black;
+}
+
+td{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.lightgreen
+{
+    background-color: aquamarine;
+}
+
+.lightyellow
+{
+    background-color: lightyellow;
+}
+
+.red
+{
+    background-color:red;
+}
+
+.blue
+{
+    background-color:blue;
+}
+
+.green
+{
+    background-color:green;
+}
+
+.yellow
+{
+    background-color: yellow;
+}
+
+
+.one td
+{
+    padding-right: 50px;
+    border: 1px solid black;
+}
